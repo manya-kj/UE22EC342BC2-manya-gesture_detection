@@ -3,6 +3,7 @@ A modular ROS2-based system for real-time hand gesture recognition, interpretati
 
 ## **Project Overview**
 This project implements a complete pipeline for hand gesture recognition using ROS2 and MediaPipe. The system captures video from a camera, detects hand landmarks, interprets specific hand gestures, and provides audible feedback through text-to-speech conversion.
+
 ![Screenshot from 2025-05-16 19-00-12](https://github.com/user-attachments/assets/3845e1e8-af18-4c18-bfa5-85e85e724908)
 
 ## **Features**
